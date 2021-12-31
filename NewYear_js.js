@@ -72,8 +72,8 @@ function digital() {
   //dots
   strokeWeight(u/3);
   stroke(255);
-  point(-0.75*u, 0 - 0.8*u);
-  point(-0.75*u, 0 + 0.8*u);
+  point(-0.85*u, 0 - 0.8*u);
+  point(-0.85*u, 0 + 0.8*u);
 
   //slash
   strokeWeight(u/6);
